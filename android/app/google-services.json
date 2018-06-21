@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "947237863687",
+    "firebase_url": "https://ekunitsa-tinderclone.firebaseio.com",
+    "project_id": "ekunitsa-tinderclone",
+    "storage_bucket": "ekunitsa-tinderclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947237863687:android:145d66de822b3c65",
+        "android_client_info": {
+          "package_name": "com.tinderclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947237863687-hmaadub6g3itf01pu1q0a5os7pgbvms5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtF0cgDTc4BlqRuJy0cLtkZvLlDPC6Twk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
